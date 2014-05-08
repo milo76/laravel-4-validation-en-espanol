@@ -59,6 +59,7 @@ return array(
 	),
 	"not_in"               => "El campo :attribute seleccionado es inválido.",
 	"numeric"              => "El campo :attribute debe ser un numero.",
+	"regex"                => "El formato del campo :attribute es inválido.",
 	"required"             => "El campo :attribute es requerido",
 	"required_if"          => "El campo :attribute es requerido cuando :other es :value.",
 	"required_with"        => "El campo :attribute es requerido cuando :values están presentes.",
