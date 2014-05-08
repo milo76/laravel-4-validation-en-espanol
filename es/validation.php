@@ -44,7 +44,6 @@ return array(
 	"in"                   => "El campo :attribute seleccionado es inválido.",
 	"integer"              => "El campo :attribute debe ser un entero.",
 	"ip"                   => "El campo :attribute debe ser una dirección IP válida.",
-	"match"                => "El formato :attribute es inválido.",
 	"max"            => array(
 		"numeric" => "El campo :attribute debe ser menor que :max.",
 		"file"    => "El campo :attribute debe ser menor que :max kilobytes.",
