@@ -18,15 +18,15 @@ return array(
 	|
 	*/
 
-	"accepted"       => "El campo :attribute debe ser aceptado.",
-	"active_url"     => "El campo :attribute no es una URL válida.",
-	"after"          => "El campo :attribute debe ser una fecha después de :date.",
-	"alpha"          => "El campo :attribute sólo puede contener letras.",
-	"alpha_dash"     => "El campo :attribute sólo puede contener letras, números y guiones.",
-	"alpha_num"      => "El campo :attribute sólo puede contener letras y números.",
+	"accepted"             => "El campo :attribute debe ser aceptado.",
+	"active_url"           => "El campo :attribute no es una URL válida.",
+	"after"                => "El campo :attribute debe ser una fecha después de :date.",
+	"alpha"                => "El campo :attribute sólo puede contener letras.",
+	"alpha_dash"           => "El campo :attribute sólo puede contener letras, números y guiones.",
+	"alpha_num"            => "El campo :attribute sólo puede contener letras y números.",
 	"array"                => "El campo :attribute sólo puede contener un arreglo.",
-	"before"         => "El campo :attribute debe ser una fecha antes :date.",
-	"between"        => array(
+	"before"               => "El campo :attribute debe ser una fecha antes :date.",
+	"between"         => array(
 		"numeric" => "El campo :attribute debe estar entre :min y :max.",
 		"file"    => "El campo :attribute debe estar entre :min y :max kilobytes.",
 		"string"  => "El campo :attribute debe estar entre :min y :max caracteres.",
@@ -44,14 +44,14 @@ return array(
 	"in"                   => "El campo :attribute seleccionado es inválido.",
 	"integer"              => "El campo :attribute debe ser un entero.",
 	"ip"                   => "El campo :attribute debe ser una dirección IP válida.",
-	"max"            => array(
+	"max"             => array(
 		"numeric" => "El campo :attribute debe ser menor que :max.",
 		"file"    => "El campo :attribute debe ser menor que :max kilobytes.",
 		"string"  => "El campo :attribute debe ser menor que :max caracteres.",
 		"array"   => "El campo :attribute no puede tener más de :max items.",
 	),
-	"mimes"          => "El campo :attribute debe ser un archivo de tipo :values.",
-	"min"            => array(
+	"mimes"           => "El campo :attribute debe ser un archivo de tipo :values.",
+	"min"             => array(
 		"numeric" => "El campo :attribute debe tener al menos :min.",
 		"file"    => "El campo :attribute debe tener al menos :min kilobytes.",
 		"string"  => "El campo :attribute debe tener al menos :min caracteres.",
@@ -73,8 +73,8 @@ return array(
 		"string"  => "El campo :attribute debe ser :size caracteres.",
 		"array"   => "El campo :attribute debe contener :size items.",
 	),
-	"unique"         => "El campo :attribute ya ha sido tomado.",
-	"url"            => "El formato de :attribute es inválido.",
+	"unique"               => "El campo :attribute ya ha sido tomado.",
+	"url"                  => "El formato de :attribute es inválido.",
 
 	/*
 	|--------------------------------------------------------------------------
