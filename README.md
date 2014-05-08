@@ -1,5 +1,5 @@
-Laravel 4.1 en español
-==========
+Validaciones de Laravel 4.1 en español
+==
 
 Mensajes de alerta traducidos al español para la versión 4.1
 
