@@ -1,7 +1,7 @@
 laravel-español
 ===============
 
-mensajes de alerta traducidos al español
+mensajes de alerta traducidos al español para la versión 4.1
 
 
 ##Instrucciones:
