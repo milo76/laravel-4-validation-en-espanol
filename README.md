@@ -1,19 +1,19 @@
-laravel-español
-===============
+Laravel 4.1 en español
+==========
 
-mensajes de alerta traducidos al español para la versión 4.1
+Mensajes de alerta traducidos al español para la versión 4.1
 
 
 ##Instrucciones:
 
-1. descargar la carpeta "es" y colocarla dentro de /application/language/
+1. descargar la carpeta "es" y colocarla dentro de /app/lang/
 
-2. luego editar el archivo application.php en la carpeta config y cambia
+2. luego editar el archivo app.php en la carpeta config y cambia
 
-        'language' => 'en',
+        'locale' => 'en',
 
       por 
   
-        'language' => 'es',
+        'locale' => 'es',
 
 3. y eso es todo
